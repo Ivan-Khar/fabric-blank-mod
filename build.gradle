@@ -33,7 +33,7 @@ dependencies {
 	modImplementation 'com.github.astei:lazydfu:0.1.2'
 	modImplementation 'com.github.CaffeineMC.lithium-fabric:lithium:29dad697a5'
 	modImplementation 'com.github.CaffeineMC:sodium-fabric:mc1.18.2-0.4.1'
-	modImplementation include("fr.catcore:server-translations-api:1.4.10+1.18.2")
+	// modImplementation include("fr.catcore:server-translations-api:1.4.10+1.18.2")
 	
 	// PSA: Some older mods, compiled on Loom 0.2.1, might have outdated Maven POMs.
 	// You may need to force-disable transitiveness on them.
